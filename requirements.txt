@@ -1,2 +1,2 @@
 azure==2.0.0rc4
-
+cloudant==2.0.0
